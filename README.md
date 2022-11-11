@@ -1,8 +1,6 @@
 # Convolutional-Neural-Network-Leaves-Classification
 
-## Description
-
-# Artificial Neural Networks and Deep Learning competition 2022/2023 - Politecnico di Milano. 
+Artificial Neural Networks and Deep Learning competition 2022/2023 - Politecnico di Milano. 
 
 ## 👤 Team
 
