@@ -2,6 +2,10 @@
 
 Artificial Neural Networks and Deep Learning competition 2022/2023 - Politecnico di Milano. 
 
+## Description
+
+Image classification of species of leaves, which are divided into categories according to the species of the plant to which they belong. Being a classification problem, given an image, the goal is to predict the correct class label.
+
 ## 👤 Team
 
 * Luca Petracca
