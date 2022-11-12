@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3e45f25-0b23-4d97-a293-b61892ed52c7" name="Changes" comment="Updates">
+    <list default="true" id="c3e45f25-0b23-4d97-a293-b61892ed52c7" name="Changes" comment="Upload other trials">
       <change afterPath="$PROJECT_DIR$/Matteo/Dataset/Species1/00000.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Matteo/Dataset/Species1/00001.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Matteo/Dataset/Species1/00002.jpg" afterDir="false" />
@@ -3676,7 +3676,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668274360427</updated>
       <workItem from="1668274361923" duration="3943000" />
-      <workItem from="1668281699601" duration="9091000" />
+      <workItem from="1668281699601" duration="9427000" />
     </task>
     <task id="LOCAL-00001" summary="Updates">
       <created>1668281449258</created>
@@ -3685,7 +3685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668281449258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Upload other trials">
+      <created>1668291372154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668291372154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -3705,6 +3712,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+    <MESSAGE value="Upload other trials" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload other trials" />
   </component>
 </project>
