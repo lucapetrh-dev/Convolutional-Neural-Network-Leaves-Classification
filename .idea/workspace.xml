@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3e45f25-0b23-4d97-a293-b61892ed52c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/HandCrafted_CNN/keras_metadata.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/HandCrafted_CNN/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/HandCrafted_CNN/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/HandCrafted_CNN/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-09-11/tb_logs/train/events.out.tfevents.1668276552.Matteos-MacBook-Pro.local.51542.0.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-10-03/tb_logs/train/events.out.tfevents.1668276603.Matteos-MacBook-Pro.local.51542.1.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-10-46/tb_logs/train/events.out.tfevents.1668276646.Matteos-MacBook-Pro.local.51542.2.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-11-28/ckpts/cp/keras_metadata.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-11-28/ckpts/cp/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-11-28/ckpts/cp/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-11-28/ckpts/cp/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-11-28/tb_logs/train/events.out.tfevents.1668276688.Matteos-MacBook-Pro.local.51542.3.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-11-28/tb_logs/validation/events.out.tfevents.1668276695.Matteos-MacBook-Pro.local.51542.4.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-23-04/ckpts/cp/keras_metadata.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-23-04/ckpts/cp/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-23-04/ckpts/cp/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-23-04/ckpts/cp/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-23-04/tb_logs/train/events.out.tfevents.1668277384.Matteos-MacBook-Pro.local.51542.5.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-23-04/tb_logs/validation/events.out.tfevents.1668277389.Matteos-MacBook-Pro.local.51542.6.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-26-03/ckpts/cp/keras_metadata.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-26-03/ckpts/cp/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-26-03/ckpts/cp/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-26-03/ckpts/cp/variables/variables.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-26-03/tb_logs/train/events.out.tfevents.1668277563.Matteos-MacBook-Pro.local.51542.7.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matteo/data_augmentation_experiments/HandCrafted_CNN_Nov12_19-26-03/tb_logs/validation/events.out.tfevents.1668277567.Matteos-MacBook-Pro.local.51542.8.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Convolutional-Neural-Network-Leaves-Classification.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Convolutional-Neural-Network-Leaves-Classification.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matteo/challenge1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Matteo/challenge1.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HSN7wfuUrsfT6rE9rsdtoXUfKc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3e45f25-0b23-4d97-a293-b61892ed52c7" name="Changes" comment="" />
+      <created>1668274360427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668274360427</updated>
+      <workItem from="1668274361923" duration="3943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
