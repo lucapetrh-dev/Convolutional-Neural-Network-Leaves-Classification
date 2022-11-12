@@ -77,3 +77,7 @@ Accuracy: 0.5325
     model.compile(loss=tfk.losses.CategoricalCrossentropy(),
                   optimizer=tfk.optimizers.Adam(),
                   metrics=['accuracy', tf.keras.metrics.Precision(), tf.keras.metrics.Recall()])
+
+### More trials
+Provato ad aggiungere layer (fino a 7), cambiare numero di filtri ma i risultati sono peggiorati!
+Tornato a 5 layer e aggiunto la Leaky Relu.
