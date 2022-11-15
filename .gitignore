@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# dataset
+Matteo/data_augmentation_experiments
+Matteo/Dataset
+Matteo/datasetNoTest
+Matteo/HandCrafted_CNN
+Matteo/HandCrafted_CNNCombined
+Matteo/ResNet_CNN
+Matteo/SimpleHandCrafted_CNNCombined
+
 # Distribution / packaging
 .Python
 build/
