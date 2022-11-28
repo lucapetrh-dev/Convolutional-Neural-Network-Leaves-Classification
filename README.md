@@ -8,12 +8,10 @@ Image classification of species of leaves, which are divided into categories acc
 
 ## 👤 Team
 
-* Luca Petracca
-* Matteo Pancini
 * Beatrice Insalata
 * Lorenzo Mauri
-
-Prof. Matteo Matteucci
+* Matteo Pancini
+* Luca Petracca
 
 ## 🔨 Tools and Languages
 
